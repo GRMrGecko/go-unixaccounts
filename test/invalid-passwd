@@ -1,0 +1,4 @@
+root:x:0:0:root@ipa-node4-p01.lan3.us-midwest-2.lwinternal.com:/root:/bin/bash
+bin:x:1:1:bin:/bin:/sbin/nologin
+daemon:x:2:2:daemon:/sbin:/sbin/nologin:hi
+test:x:1000:1001:Test User:/home/test:/bin/bash

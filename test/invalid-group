@@ -1,0 +1,5 @@
+root:x:0:
+bin:x:1::test
+daemon:x:2:
+cdrom:x:11:test,root
+test:x:1001:

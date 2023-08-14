@@ -1,0 +1,6 @@
+root:x:0:
+bin:x:1:
+daemon:x:2:
+cdrom:x:11:test,root
+# Test group comment
+test:x:1001:
